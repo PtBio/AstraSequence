@@ -1,0 +1,73 @@
+{
+  "application": "0.79.2",
+  "date": "2026-10-30",
+  "capture": "Per-image provenance; native images are actual macOS0.79.2 GUI, automated images are explicitly labeled older test layouts",
+  "data": "Built-in synthetic sample and tutorial FASTA",
+  "images": [
+    {
+      "file": "assets/screenshots/alignment-algorithms-native-0792.png",
+      "kind": "actual_native_0792",
+      "sha256": "3ecc10f648edeff3ef680e56efeaee6e181b678a87103969f39025b8b8fee7a6"
+    },
+    {
+      "file": "assets/screenshots/alignment-export-native-0792.png",
+      "kind": "actual_native_0792",
+      "sha256": "a4f19e0e9ad29297e9c9961b8f28d895f2fbd4af7e9a71db0e31138916f83f22"
+    },
+    {
+      "file": "assets/screenshots/alignment-paste-native-0792.png",
+      "kind": "actual_native_0792",
+      "sha256": "ccdc80a98df60f6258c25d4a3888240de94e806bb0f93f14966adecdcb65f5b4"
+    },
+    {
+      "file": "assets/screenshots/alignment-setup-native-0792.png",
+      "kind": "actual_native_0792",
+      "sha256": "4bef5270b3520488d907e4bffa9abe1b5bc9bc8b9650aef5385a9b55d134e67f"
+    },
+    {
+      "file": "assets/screenshots/alignment-viewer-native-0792.png",
+      "kind": "actual_native_0792",
+      "sha256": "e5c3f4cdeb844526595356f1a03d3e31bb76ce0e6243209cac90303ebc02e22a"
+    },
+    {
+      "file": "assets/screenshots/digest-automated-example.png",
+      "kind": "historical_automated_example",
+      "sha256": "cfe4fe903cce8bccf1aa5bedbd4f3f0814eb39995f527de9b94ca74940fe98c0"
+    },
+    {
+      "file": "assets/screenshots/enzyme-presets-native-0792.png",
+      "kind": "actual_native_0792",
+      "sha256": "4dac917830633558009684f5eb097b13a92202c586cc2a018d2a1925cfdd53f1"
+    },
+    {
+      "file": "assets/screenshots/feature-editor-native-0792.png",
+      "kind": "actual_native_0792",
+      "sha256": "c25c82289d7353cf5086ad6967386c6fead309b281a89e046d96414fbec609fd"
+    },
+    {
+      "file": "assets/screenshots/feature-translation-native-0792.png",
+      "kind": "actual_native_0792",
+      "sha256": "4e1dd513bbcf6b6a60a60d2b9c8a97f19c5b1498ee7ccc2b05882695a3b36cf9"
+    },
+    {
+      "file": "assets/screenshots/features-native-0792.png",
+      "kind": "actual_native_0792",
+      "sha256": "3373afe0d18b36f67a11da9faf49d08e0b75132940b8848965d5dc0d455c6d67"
+    },
+    {
+      "file": "assets/screenshots/map-native-0792.png",
+      "kind": "actual_native_0792",
+      "sha256": "d3cd9ff63baf77fad5ab10874e707d7134196efe100e87754b0933698cc10007"
+    },
+    {
+      "file": "assets/screenshots/pcr-automated-example.png",
+      "kind": "historical_automated_example",
+      "sha256": "b6984cf1277e2fcdc85b089d47231853673d80b7c2d33f57168d0688119a8132"
+    },
+    {
+      "file": "assets/screenshots/sequence-native-0792.png",
+      "kind": "actual_native_0792",
+      "sha256": "a3d210005fc8a5beb4b7ed910cf40e78cc6e307a9251da5c50d0b2da0a29f4eb"
+    }
+  ]
+}

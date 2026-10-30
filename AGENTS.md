@@ -1,7 +1,3 @@
-# 公開ガイド準備の規則
+# Public manual maintenance
 
-このフォルダーはPtBio/AstraSequenceのガイド用です。アプリ開発用Platinum_Bio_Editorとは別リポジトリです。現在pushと公開反映は保留です。ユーザーの明示指示なしにpush、Pages公開、release作成をしないでください。
-
-開始時にpwd/status/diff/cached/log/worktree/remoteを読み、未コミット変更を保持してください。このリポジトリでアプリコード・配布ZIP・資格情報・個人パス・Library内部ID・参考画像を追加しません。資料とブランドの公開可否は公開前に確認します。未公開の動画やリンクを作りません。
-
-アプリv0.63.0の同梱ガイドを基準にしています。事実と未確認範囲を保持し、変更を担当者一人でローカルcommitしてください。アプリ正本へ無断で書き込まず、他作業を上書きしません。
+This repository contains the public AstraSequence user manual, not application code. The user authorized publication on 2026-10-30 and requested Japanese as the primary manual language. Use owned synthetic examples and original AstraSequence screenshots. Do not publish private sequences, credentials, personal paths, third-party reference screenshots, application source or distribution archives. Keep screenshot provenance and application version explicit. SkyAccess is described only as under development. Validate local links and inspect images before publication. Preserve unrelated work and never force-push.
