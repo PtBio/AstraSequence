@@ -1,6 +1,6 @@
 # 目的別の操作ガイド
 
-[目次へ](../README.md) · 対象：0.84.0 · 更新：2026-11-05
+[目次へ](../README.md) · 対象：0.84.0 · 更新：2026-11-06
 
 [初めての操作](getting-started.md)から始めてください。
 
@@ -13,4 +13,3 @@
 - [アライメントの入力と実行](alignment.md)
 - [結果ビュー・交換形式](alignment-viewer.md)
 - [困ったとき・用語](troubleshooting.md)
-- [5 Mbまでの大きな配列](large-sequences.md)
