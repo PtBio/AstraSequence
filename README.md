@@ -2,7 +2,7 @@
 
 <img src="assets/astrasequence-welcome.png" alt="AstraSequence" width="112">
 
-DNA・RNA・タンパク配列の確認・編集から、注釈、PCR、マルチプルアライメントまでを説明する日本語マニュアルです。対象は **AstraSequence 0.84.0**、更新日は2026年11月6日です。
+DNA・RNA・タンパク配列の確認・編集から、注釈、PCR、マルチプルアライメントまでを説明する日本語マニュアルです。対象は **AstraSequence 0.92.1**、更新日は2026年11月26日です。
 
 ![配列ビュー](assets/screenshots/sequence-native-0792.png)
 
@@ -19,6 +19,7 @@ DNA・RNA・タンパク配列の確認・編集から、注釈、PCR、マル�
 | 5 | [Primer登録とPCR](docs/primers.md) |
 | 6 | [供給元とグループで制限酵素を選ぶ](docs/enzymes.md) |
 | 7 | [消化・接合・クローニング](docs/cloning.md) |
+| 7補 | [バイナリーベクターの設計・区間置換・保存](docs/binary-vector.md) |
 | 8 | [核酸・タンパクのマルチプルアライメント](docs/alignment.md) |
 | 9 | [アライメント結果の見方・保存・交換](docs/alignment-viewer.md) |
 | 10 | [困ったとき・用語集](docs/troubleshooting.md) |
